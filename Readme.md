@@ -5,6 +5,9 @@
 * [Default.aspx.cs](./CS/WebSite/Default.aspx.cs) (VB: [Default.aspx.vb](./VB/WebSite/Default.aspx.vb))
 <!-- default file list end -->
 # How to handle DevExpress ASP.NET callbacks via the ASPxGlobalEvents control
+<!-- run online -->
+**[[Run Online]](https://codecentral.devexpress.com/e3910/)**
+<!-- run online end -->
 
 
 <p>Performing multiple callbacks simultaneously (initiated by DevExpress ASP.NET controls) is not recommended. Instead of that, it is recommended to wait until the previous callback/request is completed.<br />
